@@ -135,7 +135,7 @@ The frontend works perfectly on static hosts. Disable the PHP form or use a serv
 
 ## 📜 License
 
-Personal portfolio — © 2024 Gowtham Kumar D. All rights reserved.
+Personal portfolio — © 2026 Gowtham Kumar D. All rights reserved.
 
 ---
 
